@@ -1,16 +1,4 @@
-# Ignore Play! working directory #
-bin/
-/db
-.eclipse
-/lib/
-/logs/
-/modules
-/project/project
-/project/target
-/target
-tmp/
-test-result
-server.pid
-*.eml
-/dist/
-.cache
+.idea
+/app/target
+/app/hello-world/target
+/app/hello-world/project/target
